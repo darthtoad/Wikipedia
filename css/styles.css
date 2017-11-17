@@ -1,3 +1,46 @@
 .right {
   float: right;
 }
+
+.left-to-right ul li {
+  display: inline;
+}
+
+.right-to-left ul li {
+  display: inline;
+  float: right;
+}
+
+.panel-info .panel-body {
+  background-color: #f2fcff;
+}
+
+.panel-success .panel-body {
+  background-color: #f6fbf6;
+}
+
+.purple {
+  background-color: lavender;
+}
+
+.purple .panel .panel-heading {
+  background-color: #cba8ea;
+}
+
+.line-heading {
+  border-bottom: 1px solid black;
+}
+
+.sidebar {
+  float: left;
+  margin-left: -200%;
+  width: 200px;
+}
+
+#bottom {
+  text-align: center;
+}
+
+#right-navigation {
+  float: right;
+}
