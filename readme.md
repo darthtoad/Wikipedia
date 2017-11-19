@@ -16,7 +16,7 @@ Bootstrap
 
 ## Known bugs:
 
-The navbar is making some empty space.
+The text on the panel headings go off the panel at small sizes. It might be preferable to try staking the sidebar at the top or placing it at the bottom before the footer.
 
 ## Contact Details:
 
